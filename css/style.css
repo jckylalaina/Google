@@ -31,7 +31,7 @@ ul.nav_bar li{
 }
 #corps{
 	text-align:center;
-	margin-top:120px;
+	margin-top:200px;
 }
 input[type="text"]{
 	width: 600px;
@@ -86,12 +86,11 @@ input[type="submit"]:hover{
 }
 .footer{
 	width: 100%;
-	height: 35px;
+	height: 40px;
 	background-color: blue;
 	border:solid ;
 	border-width: 0.1px;
 	border-color: rgba(0,0,0,0.05);
-	width: 100%;
 	background-color: rgba(25,25,25,0.07);
 
 
