@@ -3,8 +3,10 @@ body{
 	padding: 0px;
 }
 nav{
+	position: absolute;
+	top: -15px;
 	text-align: right;
-	margin:20px 100px ;
+	margin-left:1020px ;
 
 }
 li{
@@ -29,7 +31,7 @@ ul.nav_bar li{
 }
 #corps{
 	text-align:center;
-	margin-top:80px;
+	margin-top:120px;
 }
 input[type="text"]{
 	width: 600px;
@@ -110,14 +112,13 @@ li.menu1 a{
 span{
 	margin-left:825px;
 }
-#img{
-	position: absolute;
-	margin-left:1260px;
-	margin-top: -39px
-}
 #img img{
 	width: 20px;
 }
-#img:hover img{
-	width: 21px;
+#sub{
+	width:100px;
+	height: 30px;
+	border-radius:4px;
+	background-color: blue;
+	color: #fff;
 }
